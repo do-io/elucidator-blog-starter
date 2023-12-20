@@ -120,8 +120,8 @@ export default defineConfig({
       includeAssets: ["favicon.ico", "robots.txt"],
       manifest: {
         // You can change this name into your own
-        name: "Elucidator Blog Starter",
-        short_name: "Elucidator",
+        name: "DO Dev Blog",
+        short_name: "DO",
         description: "A blog starter with Vite.js",
         theme_color: "#347f76",
         icons: [
