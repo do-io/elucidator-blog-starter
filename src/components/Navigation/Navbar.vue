@@ -68,7 +68,7 @@ const dataNavbar: NavbarMenu[] = [
     <div class="max-w-screen-lg mx-auto h-full flex flex-row items-center space-x-4">
       <div class="logo flex-1">
         <router-link to="/" class="font-bold lg:tracking-wide text-2xl">
-          Elucidator Blog
+          DO Dev Blog
         </router-link>
       </div>
       <div class="flex flex-wrap items-center">
