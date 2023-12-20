@@ -9,7 +9,7 @@ const articles = computed(() => {
   const paginate = paginateData({
     articles: articles,
     currentPage: currentPage.value,
-    pageSize: 3,
+    pageSize: 9,
   })
 
   return paginate
