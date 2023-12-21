@@ -1,4 +1,4 @@
-FROM node:latest
+FROM node:lts-iron
 USER node
 
 LABEL MAINTAINER="Iwan Firmawan <firmawaneiwan@gmail.com>"
