@@ -16,3 +16,7 @@ html.dark {
 a {
   @apply cursor-pointer;
 }
+
+img.h-auto.object-cover.w-full {
+  max-height: 220px;
+}

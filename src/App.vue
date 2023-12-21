@@ -2,11 +2,11 @@
 // In this section, we use @vueuse/head. Check this for more detail
 // https://github.com/vueuse/head
 useHead({
-  title: "Elucidator Blog Starter",
+  title: "DO Dev Blog",
   meta: [
     {
       name: "description",
-      content: "Elucidator blog starter for vue and vite",
+      content: "blog starter changed for vue and vite on DO Dev Blog",
     },
   ],
 })
