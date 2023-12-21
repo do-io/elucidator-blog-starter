@@ -3,7 +3,7 @@ name: "Why Use Nuxt for Building SSG Websites"
 date: "2023-12-16"
 tags: ['vue', 'nuxt']
 description: Discover why Nuxt.js is ideal for SSG websites in this easy-to-understand guide, exploring its benefits in speed, SEO, and developer experience.
-thumbnail: https://i.ibb.co/d4hScjv/banner.png
+thumbnail: /img/norway/lachlan-gowen-jrMsv-0o0bw-unsplash.jpg
 ---
 
 In the realm of web development, the trend of using Static Site Generators (SSGs) has been rapidly growing. Among the numerous options available, Nuxt.js stands out as a powerful and versatile framework, particularly suited for building SSG websites. This article aims to demystify why Nuxt is an excellent choice for software engineers looking to delve into SSG.

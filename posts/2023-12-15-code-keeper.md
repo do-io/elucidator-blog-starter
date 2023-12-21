@@ -3,7 +3,7 @@ name: "Code Keepers"
 date: "2023-12-15"
 tags: ['bard', 'ai', 'test']
 description: A half-written line of code mocked him from his monitor, a testament of a career cut short.
-thumbnail: https://i.ibb.co/d4hScjv/banner.png
+thumbnail: /img/norway/lachlan-gowen-J38KXYtVrBA-unsplash.jpg
 ---
 
 The severance package felt heavy in Ethan's hands, a tangible weight added to the leaden pit in his stomach. "Downsized," they'd called it, a euphemism so sterile it couldn't mask the cold truth: his code, once hailed as revolutionary, was now obsolete.

@@ -1,6 +1,6 @@
 ---
 name: Vue with Gridsome
-thumbnail: img/
+thumbnail: /img/norway/gunnar-ridderstrom-9f1kLXAUyfI-unsplash.jpg
 date: "2023-12-11"
 description: Dive into the world of Gridsome and Vue. Learn the basics of integrating these powerful tools to build fast, modern websites.
 tags: ['jamstack','gridsome','vue']

@@ -3,7 +3,7 @@ name: "Wordpress Development on Docker Desktop"
 date: "2023-12-17"
 tags: ['wordpress', 'docker']
 description: One of the most popular content management systems (CMS) is Wordpress, known for its flexibility, user-friendly interface, and extensive range of plugins and themes.
-thumbnail: https://i.ibb.co/d4hScjv/banner.png
+thumbnail: /img/norway/mao-yuqing-15_sm282qAE-unsplash.jpg
 ---
 
 In today's digital era, having a high-performing website is crucial for businesses seeking to thrive in the online marketplace. One of the most popular content management systems (CMS) is Wordpress, known for its flexibility, user-friendly interface, and extensive range of plugins and themes. However, optimizing the performance and efficiency of a Wordpress site can be challenging, especially when faced with various environmental factors. In this guide, we will explore how to leverage Docker Desktop for Wordpress development, empowering you to boost your website's performance and outrank competitors in search engine rankings.

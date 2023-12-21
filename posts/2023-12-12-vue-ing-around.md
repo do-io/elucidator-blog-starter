@@ -1,6 +1,6 @@
 ---
 name: "Vue Around: A Light-Hearted Journey into the World of Vue.js"
-thumbnail: https://i.ibb.co/d4hScjv/banner.png
+thumbnail: /img/norway/kilian-kremer-aw3YDToLWoI-unsplash.jpg
 date: "2023-12-12"
 tags: ['vue']
 description: Vue.js is like that friend who's always upbeat, ready to lend a hand, and somehow makes even the dullest task seem like a party.

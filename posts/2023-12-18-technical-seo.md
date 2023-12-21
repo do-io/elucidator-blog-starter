@@ -3,7 +3,7 @@ name: "So you want to Write a WordPress Plugin: A Guide for Outstanding Results"
 date: "2023-12-18"
 tags: ['wordpress', 'plugin']
 description: Are you looking to develop a WordPress plugin that will not only meet your specific needs but also have the potential to outrank other websites in Google?
-thumbnail: https://i.ibb.co/d4hScjv/banner.png
+thumbnail: /img/norway/simon-williams-f6Fid_KXV4Y-unsplash.jpg
 ---
 Are you looking to develop a WordPress plugin that will not only meet your specific needs but also have the potential to outrank other websites in Google? Look no further! In this comprehensive guide, we will walk you through the process of creating a high-quality WordPress plugin that is both user-friendly and search engine optimized. Our aim is to help you achieve outstanding results and boost your website traffic. So, let's dive right in!
 
