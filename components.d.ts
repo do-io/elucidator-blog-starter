@@ -13,6 +13,7 @@ declare module 'vue' {
     CarbonSearch: typeof import('~icons/carbon/search')['default']
     CarbonSun: typeof import('~icons/carbon/sun')['default']
     CarbonTableOfContents: typeof import('~icons/carbon/table-of-contents')['default']
+    CarbonWarningAltFilled: typeof import('~icons/carbon/warning-alt-filled')['default']
     Footer: typeof import('./src/components/Footer/Footer.vue')['default']
     ImageThree: typeof import('./src/components/Image/ImageThree.vue')['default']
     ImageTwo: typeof import('./src/components/Image/ImageTwo.vue')['default']
