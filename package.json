@@ -51,7 +51,7 @@
     "markdown-it-link-attributes": "^3.0.0",
     "markdown-it-prism": "^2.2.3",
     "markdown-it-table-of-contents": "^0.5.2",
-    "node-sass": "^9.0.0",
+    "node-sass": "^7.0.3",
     "prettier": "^2.5.1",
     "prismjs": "^1.27.0",
     "sass": "^1.49.9",
