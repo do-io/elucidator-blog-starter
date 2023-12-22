@@ -7,7 +7,7 @@ thumbnail: /img/norway/gunnar-ridderstrom-9f1kLXAUyfI-unsplash.jpg
 ---
 In the ever-evolving world of web development, there's a new buzzword making waves - AI, or Artificial Intelligence. With its potential to revolutionize the way websites are designed, developed, and maintained, it's no wonder that AI is garnering so much attention. However, as with any emerging technology, there are bound to be myths and misconceptions.
 
-At [Your Company Name], we believe in separating myth from reality when it comes to AI in web development. In this article, we aim to provide you with a comprehensive overview of AI's role in shaping the future of web development. By the end, you'll have a clear understanding of what AI can and cannot do in this field.
+At Odden Digital, we believe in separating myth from reality when it comes to AI in web development. In this article, we aim to provide you with a comprehensive overview of AI's role in shaping the future of web development. By the end, you'll have a clear understanding of what AI can and cannot do in this field.
 
 The Power of AI in Web Development
 
