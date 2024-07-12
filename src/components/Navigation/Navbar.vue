@@ -101,7 +101,7 @@ const dataNavbar: NavbarMenu[] = [
           title="Search articles.."
         />
         <a
-          href="https://github.com/satyawikananda/elucidator-blog-starter"
+          href="https://github.com/do-io"
           target="_blank"
           rel="noreferrer"
           title="repository github"
