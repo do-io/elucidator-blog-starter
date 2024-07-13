@@ -26,6 +26,7 @@ declare module 'vue' {
     ToTopBtn: typeof import('./src/components/Button/ToTopBtn.vue')['default']
     UilDocumentLayoutCenter: typeof import('~icons/uil/document-layout-center')['default']
     UilGithub: typeof import('~icons/uil/github')['default']
+    UilLinkedin: typeof import('~icons/uil/linkedin')['default']
   }
 }
 

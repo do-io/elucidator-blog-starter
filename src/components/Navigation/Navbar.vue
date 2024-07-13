@@ -106,7 +106,15 @@ const dataNavbar: NavbarMenu[] = [
           rel="noreferrer"
           title="repository github"
         >
-          <uil-github class="flex cursor-pointer text-elucidator-700 dark:text-dark-repulser-400" />
+          <uil-github class="mr-5 flex cursor-pointer text-elucidator-700 dark:text-dark-repulser-400" />
+        </a>
+        <a
+          href="https://linkedin.com/in/darren-odden"
+          target="_blank"
+          rel="noreferrer"
+          title="repository github"
+        >
+          <uil-linkedin class="flex cursor-pointer text-elucidator-700 dark:text-dark-repulser-400" />
         </a>
         <carbon-menu
           class="cursor-pointer text-elucidator-700 dark:text-dark-repulser-400 ml-5 sm:block lg:hidden"
