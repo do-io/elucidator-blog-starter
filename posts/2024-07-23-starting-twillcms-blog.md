@@ -1,6 +1,6 @@
 ---
 name: "Starting Your TwillCMS Blog: A Comprehensive Guide"
-date: "2024-07-20"
+date: "2024-07-23"
 tags: ['web', 'laravel', 'php']
 description: Learn how to start a blog with TwillCMS, from installation to customization and deployment, in this comprehensive guide.
 thumbnail: /img/norway/christoffer-engstrom-tjguVu0GoEM-unsplash.jpg
