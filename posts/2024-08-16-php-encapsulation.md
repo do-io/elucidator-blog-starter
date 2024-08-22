@@ -1,6 +1,6 @@
 ---
 name: "Encapsulation in PHP"
-date: "2024-08-15"
+date: "2024-08-16"
 tags: ['php']
 description: Learn the essentials of encapsulation in OOP PHP, its importance, benefits, and how to implement it effectively in your projects.
 thumbnail: /img/norway/joshua-kettle-xuj_mfZUGxs-unsplash.jpg
