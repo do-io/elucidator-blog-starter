@@ -2,7 +2,7 @@
 name: "What is Direct to Consumer"
 date: "2025-03-11"
 tags: ['dtc', 'direct to consumer']
-description: Discover the latest features and improvements in Drupal 11, including enhanced performance, security, and user-friendly tools for developers and site builders.
+description: Let's discuss what is Direct to Consumer and what are the advantages of it.
 thumbnail: /img/norway/lachlan-gowen-jrMsv-0o0bw-unsplash.jpg
 ---
 
