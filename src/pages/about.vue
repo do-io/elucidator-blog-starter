@@ -11,7 +11,6 @@
         <p>But there's more to Darren than just his technical acumen. His artistic side, inherited from parents deeply rooted in art and music, finds expression in illustration, photography, and videography. Inspired by the likes of Frank Lloyd Wright and the Bauhaus movement, Darren's love for architecture and design adds another layer to his multifaceted personality.</p>
         <p>Darren's approach to life and work is a blend of simplicity and complexity. He champions the 'keep it simple' philosophy, yet his life story is anything but simple. His path has been winding and unpredictable, rich with experiences and learning.</p>
         <p>Darren is a unique amalgam of traits – a 'simple complex charismatic codefauna', constantly evolving and adapting, always on a journey of discovery and innovation. Join him here, where every page is a new chapter in his ever-unfolding story.</p>
-
       </div>
     </div>
   </div>
